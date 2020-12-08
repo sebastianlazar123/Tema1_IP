@@ -1,0 +1,1 @@
+Readme pentru tema 1 IP.
