@@ -1,8 +1,16 @@
 package Actiuni;
 
+
+import java.util.ConcurrentModificationException;
+
 public class Action implements IAction {
-        private String name;
-        private String param;
+        protected String name;
+        protected String param;
+
+
+
+
+
         protected Action(String nm, String pm){
             this.name=nm;
             this.param=pm;
