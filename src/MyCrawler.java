@@ -26,7 +26,7 @@ public class MyCrawler {
     {
         actions=new ArrayList<IAction>();
         System.out.println("Facem actiunile specifice initiereii primind argumentele programului");
-        IAction a=new descarcaURL("a","b");
+        IAction a=new descarcaURL("a","b",System.getProperty("user.dir")); //al 3-lea parametru e calea catre folderul unde vrem sa facem descarcarea
         actions.add(a);
     }
 
