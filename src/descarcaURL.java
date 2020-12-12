@@ -1,10 +1,7 @@
-package Actiuni.derivate;
-
-import Actiuni.Action;
 
 public class descarcaURL extends Action {
-    public descarcaURL(String nm, String pm){
-        super(nm,pm);
+    public descarcaURL(String nm, String pm, ConfParams a){
+        super(nm,pm, a);
     }
     public void _do(){
         //aici scrieti codul

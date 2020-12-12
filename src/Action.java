@@ -1,17 +1,15 @@
-package Actiuni;
-
-
-import java.util.ConcurrentModificationException;
-
 public class Action implements IAction {
         protected String name;
         protected String param;
 
+        protected ConfParams config;
 
 
 
 
-        protected Action(String nm, String pm){
+
+        protected Action(String nm, String pm, ConfParams c){
+            config =new ConfParams(c);
             this.name=nm;
             this.param=pm;
         }
@@ -25,7 +23,7 @@ public class Action implements IAction {
     }
     public void _print()
     {
-        String string=String.format("Numele este %s iar parametrul este %s",name,param);
+        String string=String.format("Numele este %s iar parametrul este %s %s",name,param,config.root_Dir);
         System.out.println(string);
 
     }

@@ -1,10 +1,7 @@
-package Actiuni.derivate;
-
-import Actiuni.Action;
 
 public class listType extends Action {
-    listType(String nm, String pm){
-        super(nm,pm);
+    listType(String nm, String pm, ConfParams a){
+        super(nm,pm, a);
     }
     public void _do(){
         //aici scrieti cod
