@@ -1,0 +1,110 @@
+.jpic.mta.ro.html
+logo.png 
+.mta.ro.about.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png 300x108.png 300x108.png logo_alb.png logo_alb.png logo_aracis.png logo.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.absolvire.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.acces.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.admitere.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.asigurarea.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.asociatia.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.category.stiri.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.comisia.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.conducere.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.conducerea.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.conferinte.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.consiliu.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.consiliul.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.declaratii.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.departamentul.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.evenimente.conferinta.html
+spin.png 1.png spin.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png spin.png 900x350.png 1.png 1.png 1.png 300x300.png 150x150.png 768x768.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.evenimente.depunerea.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png 300x200.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.evenimente.editiei.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.evenimente.vizita.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.facultatea.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png 300x289.png 300x289.png 1024x985.png 768x739.png 1536x1478.png 2048x1971.png 296x300.png 296x300.png 1012x1024.png 768x777.png 1518x1536.png 2024x2048.png 242x300.png 242x300.png min.png 150x200.png 150x200.png 150x200.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.garda.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png 300x108.png 300x108.png logo_alb.png logo_alb.png 100x50.png dummy.png compressor.png dummy.png dummy.png dummy.png dummy.png dummy.png 870x1024.png 870x1024.png spin.png spin.png site.png IEP.png IEP.png 300x117.png 150x150.png 150x150.png mapn.png site.png site.png 300x97.png 150x150.png COMM2020.png imageedit_8_2318317653.png 123x150.png cerc.png MCWE.png MCWE.png 150x150.png asoc_ing.png 230x230.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.international.html
+60x62.png 1.png 1.png 1.png 1.png 1.png Harta_ATM_International.png Harta_ATM_International.png 300x162.png 768x415.png 1024x554.png 1.png 
+.mta.ro.legislatie.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.lista.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.membrii.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.mesaje.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.mesajul.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.posturi.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.prezentare.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.programe.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.proiecte.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.rapoarte.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.reglementari.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.regulamente.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.reviste.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.scoala.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.scurt.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.sefi.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.senatul.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.solicitare.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.stiri.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.structura.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.studenti.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.mta.ro.titluri.html
+1.png 32x32.png 192x192.png 180x180.png 270x270.png logo_negru.png logo_negru.png logo_alb.png logo_alb.png mvcvisit.png min.png min.png 224x300.png 
+.www.mta.ro.international.cerc.html
+60x62.png 1.png 1.png 1.png 1.png 1.png 1.png Int_Home_CERC.png 1.png 1.png Logo_parteneri_en.png 1.png 
+.www.mta.ro.international.conferences.html
+60x62.png 1.png 1.png 1.png 1.png 1.png 1.png Int_Home_Logo_MTA_International_300x247.png 1.png 
+.www.mta.ro.international.eea.html
+60x62.png 1.png 1.png 1.png 1.png 1.png 1.png Int_Home_EEA.png 300x211.png 300x211.png Int_Home_SEE.png 1.png 
+.www.mta.ro.international.emilyo.html
+60x62.png 1.png 1.png 1.png 1.png 1.png 1.png EMILYO_logo.png 1.png 
+.www.mta.ro.international.en.secdef.html
+60x62.png 1.png 1.png 1.png 1.png 1.png Logo_SECDEF.png RGB.png Logo_parteneri_SECDEF_2019_EN.png 1.png 
+.www.mta.ro.international.erasmus.html
+60x62.png 1.png 1.png 1.png 1.png 1.png 1.png Int_Home_Erasmus.png 1.png 
+.www.mta.ro.international.esdc.html
+60x62.png 1.png 1.png 1.png 1.png 1.png 1.png EMILYO_logo.png 1.png 1.png 
+.www.mta.ro.international.international.html
+60x62.png 1.png 1.png 1.png 1.png 1.png 1.png EMILYO_logo.png 1.png 1.png 
+.www.mta.ro.international.interuniversity.html
+60x62.png 1.png 1.png 1.png 1.png 1.png 1.png Int_Home_Logo_MTA_International_300x247.png Int_Home_Sava.png Int_Home_Moldoveanu.png Int_Home_Didulescu.png 1.png 

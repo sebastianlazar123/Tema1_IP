@@ -19,7 +19,7 @@ public class listType extends Action {
 
     public void _do()
     {
-        this.name+="\\mta.ro";
+        //this.name+="\\mta.ro";
         File directoryPath = new File(this.name);
         File[] filesList = directoryPath.listFiles();
 
