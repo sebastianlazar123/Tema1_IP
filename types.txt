@@ -1,0 +1,6 @@
+.jpic.mta.ro.html
+index.html volumes_en.html index_fr.html 
+.mta.ro.about.html
+index.html 
+.mta.ro.proiecte.html
+index.html 
