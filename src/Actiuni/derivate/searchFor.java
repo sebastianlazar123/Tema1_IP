@@ -6,12 +6,11 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.nio.file.Path;
 import java.util.LinkedList;
 import java.util.List;
 
 
-public class searchFor extends Action {
+public class searchFor extends Action {//gata.. art trebui sa mearga fara bugguri
     /// nm -> name > dir path where files are
     /// pm -> param -> text we are searching for
     public searchFor(String nm, String pm) {

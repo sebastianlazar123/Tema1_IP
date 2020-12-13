@@ -1,6 +1,7 @@
 package Actiuni.derivate;
 
 import Actiuni.Action;
+import Actiuni.ConfParams;
 
 import java.io.*;
 import java.net.MalformedURLException;
@@ -15,9 +16,9 @@ import java.util.regex.Pattern;
 
 public class descarcaURL extends Action {
     public String cale;
-    public descarcaURL(String nm, String pm, String path){
-        super(nm, pm);
-        this.cale=path;
+    public descarcaURL(String nm, String pm, ConfParams c){
+        super(nm, pm, c);
+        this.cale=c.root_Dir;
 
     }
 
@@ -148,7 +149,7 @@ public class descarcaURL extends Action {
 
                     String[] dir_name=nume.split("/",5);
                     System.out.println((dir_name[2]));
-                    String path=this.cale+"\\"+dir_name[2];
+                    String path=this.c.root_Dir+"\\"+dir_name[2];
                     Path dir = Paths.get(path);
 
                     //java.nio.file.Files;
@@ -164,7 +165,7 @@ public class descarcaURL extends Action {
 
 
 
-                    download_page(data,path,0);
+                    download_page(data,path,this.c.log_level);
 
                 } catch (IOException e) {
 

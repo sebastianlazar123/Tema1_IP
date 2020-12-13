@@ -1,6 +1,7 @@
 package Actiuni.derivate;
 
 import Actiuni.Action;
+import Actiuni.ConfParams;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -13,8 +14,8 @@ import java.util.Date;
 import java.util.Properties;
 
 public class getLogs extends Action {
-    public getLogs(String nm, String pm){
-        super(nm,pm);
+    public getLogs(String nm, String pm, ConfParams c){
+        super(nm,pm, c);
     }
     public void _do(){   // Print the contents of the file
         try {

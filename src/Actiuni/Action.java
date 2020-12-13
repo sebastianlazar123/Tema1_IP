@@ -3,7 +3,14 @@ package Actiuni;
 public class Action implements IAction {
         protected String name;
         protected String param;
-        protected Action(String nm, String pm){
+
+        protected ConfParams c;
+        protected Action(String nm, String pm, ConfParams c){
+            this.name=nm;
+            this.param=pm;
+        }
+        protected Action(String nm, String pm)
+        {
             this.name=nm;
             this.param=pm;
         }

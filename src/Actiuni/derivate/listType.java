@@ -1,12 +1,12 @@
 package Actiuni.derivate;
 
 import Actiuni.Action;
+import Actiuni.ConfParams;
 
 import java.io.*;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.io.OutputStreamWriter;
 
 public class listType extends Action {
     protected String type;
