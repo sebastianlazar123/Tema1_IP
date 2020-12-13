@@ -1,7 +1,7 @@
 import Actiuni.derivate.descarcaURL;
 import Actiuni.derivate.listType;
 import Actiuni.derivate.searchFor;
-
+import Actiuni.derivate.create_sitemap;
 import java.util.List;
 
 public class Main {
@@ -14,7 +14,8 @@ public class Main {
 //            listType list=new listType(System.getProperty("user.dir"), "out.txt", "png");
 //            list._do();
 //            list._print();
-            new searchFor("C:\\Users\\Lazar Sebastian\\Desktop\\git\\Tema1_IP\\mta.ro","cerc")._do();
-
+            //new searchFor("C:\\Users\\Lazar Sebastian\\Desktop\\git\\Tema1_IP\\mta.ro","cerc")._do();
+            create_sitemap map=new create_sitemap("facem sitemap din","mta.ro");
+            map._do();
         }
     }
