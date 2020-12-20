@@ -19,12 +19,11 @@ public class descarcaURL extends Action {
     public descarcaURL(String nm, String pm, ConfParams c){
         super(nm, pm, c);
         this.cale=c.root_Dir;
-
     }
 
     private void download_page(String webPage_name,String path, int level)
     {
-        if (level==2) return;
+        if (level==this.c.log_level) return;
         try {
 
             // Create URL object
@@ -115,7 +114,7 @@ public class descarcaURL extends Action {
             for (int i=0;i<size;i++)
             {
                 download_page(links.get(i),path,level+1);
-                System.out.println(i);
+                //System.out.println(i);
             }
 
             return;
@@ -149,7 +148,7 @@ public class descarcaURL extends Action {
 
                     String[] dir_name=nume.split("/",5);
                     System.out.println((dir_name[2]));
-                    String path=this.c.root_Dir+"\\"+dir_name[2];
+                    String path=this.cale+"\\"+dir_name[2];
                     Path dir = Paths.get(path);
 
                     //java.nio.file.Files;
@@ -165,7 +164,7 @@ public class descarcaURL extends Action {
 
 
 
-                    download_page(data,path,this.c.log_level);
+                    download_page(data,path,0);
 
                 } catch (IOException e) {
 

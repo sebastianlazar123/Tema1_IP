@@ -8,6 +8,7 @@ public class Action implements IAction {
         protected Action(String nm, String pm, ConfParams c){
             this.name=nm;
             this.param=pm;
+            this.c=c;
         }
         protected Action(String nm, String pm)
         {
