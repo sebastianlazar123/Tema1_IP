@@ -4,3 +4,5 @@ index.html volumes_en.html index_fr.html
 index.html 
 .mta.ro.proiecte.html
 index.html 
+jpic.mta.ro.html
+index.html volumes_en.html index_fr.html 

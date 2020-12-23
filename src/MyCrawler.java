@@ -181,7 +181,7 @@ public class MyCrawler {
 
             if(args[i].equals("-listType"))
             {
-                IAction a = new listType(args[i], args[i + 1],args[i+2]);
+                IAction a = new listType(args[i+1], args[i + 2],args[i+3]);
                 actions.add(a);
             }
 
@@ -193,6 +193,7 @@ public class MyCrawler {
 
             if(args[i].equals("-siteMap")) {
                 IAction a=new create_sitemap(args[i],args[i+1]);
+                actions.add(a);
             }
 
             }

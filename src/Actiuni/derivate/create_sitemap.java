@@ -17,7 +17,7 @@ public class create_sitemap extends Action{
     {
         listType local=new listType(param,"types.txt","css");
         local._do();
-        try (FileWriter map = new FileWriter("sitemap.txt")) {
+        try (FileWriter map = new FileWriter(System.getProperty("user.dir")+"/sitemap.txt")) {
             map.write(param+"\n");
             map.write("\t"+"css/\n");
             FileReader file_in=new FileReader("types.txt");

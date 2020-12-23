@@ -1,4 +1,4 @@
-mta.ro
+C:\Users\georg\Desktop\anul 4\Ing prog\Tema1_IP\mta.ro
 	css/
 		.jpic.mta.ro.html
 			bootstrap.css
@@ -156,7 +156,7 @@ mta.ro
 			icons.css
 			styles.css
 			default.css
-		.mta.ro.evenimente.depunerea.html
+		.mta.ro.evenimente.editiei.html
 			style.min.css
 			rs6.css
 			style.css
@@ -164,7 +164,7 @@ mta.ro
 			icons.css
 			styles.css
 			default.css
-		.mta.ro.evenimente.editiei.html
+		.mta.ro.evenimente.slujbe.html
 			style.min.css
 			rs6.css
 			style.css
@@ -712,6 +712,37 @@ mta.ro
 			animation.css
 			style.css
 			awsome.min.css
+		jpic.mta.ro.html
+			bootstrap.css
+			awesome.min.css
+			flexslider.css
+			style.css
+		www.mta.ro.html
+			uikit.css
+			site.css
+			style.min.css
+			frontend.css
+			style.css
+			subscribe.css
+			menu.css
+			form.css
+			tooltip.css
+			slider.css
+			icons.min.css
+			animations.min.css
+			frontend.min.css
+			slick.css
+			theme.css
+			style.css
+			main.css
+			global.css
+			9786.css
+			10372.css
+			awesome.min.css
+			style.min.css
+			fontawesome.min.css
+			solid.min.css
+			regular.min.css
 	images/
 		.jpic.mta.ro.html
 			logo.png
@@ -951,7 +982,7 @@ mta.ro
 			min.png
 			min.png
 			224x300.png
-		.mta.ro.evenimente.depunerea.html
+		.mta.ro.evenimente.editiei.html
 			1.png
 			32x32.png
 			192x192.png
@@ -961,12 +992,11 @@ mta.ro
 			logo_negru.png
 			logo_alb.png
 			logo_alb.png
-			300x200.png
 			mvcvisit.png
 			min.png
 			min.png
 			224x300.png
-		.mta.ro.evenimente.editiei.html
+		.mta.ro.evenimente.slujbe.html
 			1.png
 			32x32.png
 			192x192.png
@@ -1060,8 +1090,6 @@ mta.ro
 			dummy.png
 			870x1024.png
 			870x1024.png
-			spin.png
-			spin.png
 			site.png
 			IEP.png
 			IEP.png
@@ -1509,6 +1537,17 @@ mta.ro
 			Int_Home_Moldoveanu.png
 			Int_Home_Didulescu.png
 			1.png
+		jpic.mta.ro.html
+			logo.png
+		www.mta.ro.html
+			60x62.png
+			1.png
+			1.png
+			1.png
+			1.png
+			1.png
+			1.png
+			Int_Home_CERC.png
 		.jpic.mta.ro.html
 			min.jpg
 		.mta.ro.about.html
@@ -1574,46 +1613,31 @@ mta.ro
 			default.jpg
 		.mta.ro.evenimente.conferinta.html
 			default.jpg
-		.mta.ro.evenimente.depunerea.html
-			1.jpg
-			1.jpg
-			default.jpg
-			1.jpg
-			900x350.jpg
-			1.jpg
-			1.jpg
-			1.jpg
-			300x200.jpg
-			768x511.jpg
-			2.jpg
-			2.jpg
-			2.jpg
-			300x200.jpg
-			768x511.jpg
-			3.jpg
-			3.jpg
-			3.jpg
-			300x200.jpg
-			768x511.jpg
-			4.jpg
-			4.jpg
-			4.jpg
-			300x200.jpg
-			768x511.jpg
-			5.jpg
-			5.jpg
-			5.jpg
-			300x200.jpg
-			768x511.jpg
-			6.jpg
-			6.jpg
-			6.jpg
-			300x200.jpg
-			768x511.jpg
-			300x200.jpg
 			300x200.jpg
 		.mta.ro.evenimente.editiei.html
 			default.jpg
+			300x200.jpg
+		.mta.ro.evenimente.slujbe.html
+			3.jpg
+			3.jpg
+			default.jpg
+			3.jpg
+			900x350.jpg
+			2.jpg
+			2.jpg
+			2.jpg
+			300x200.jpg
+			768x511.jpg
+			2.jpg
+			2.jpg
+			2.jpg
+			300x200.jpg
+			768x511.jpg
+			2.jpg
+			2.jpg
+			2.jpg
+			300x200.jpg
+			768x511.jpg
 			300x200.jpg
 		.mta.ro.evenimente.vizita.html
 			IMG_6976.jpg
@@ -1625,6 +1649,8 @@ mta.ro
 			1.jpg
 			300x200.jpg
 			768x511.jpg
+			300x200.jpg
+			300x200.jpg
 		.mta.ro.facultatea.html
 			default.jpg
 			224x300.jpg
@@ -1689,6 +1715,8 @@ mta.ro
 			scaled.jpg
 			100x50.jpg
 			min.jpg
+			3.jpg
+			3.jpg
 			2016.jpg
 			212x150.jpg
 			150x150.jpg
@@ -1787,6 +1815,7 @@ mta.ro
 			default.jpg
 		.mta.ro.stiri.html
 			default.jpg
+			300x200.jpg
 		.mta.ro.structura.html
 			default.jpg
 		.mta.ro.studenti.html
@@ -2015,8 +2044,7 @@ mta.ro
 			768x512.jpeg
 			1536x1023.jpeg
 			11.32.23.jpeg
-		.mta.ro.evenimente.vizita.html
-			300x200.jpeg
+		.mta.ro.evenimente.slujbe.html
 			300x200.jpeg
 		.mta.ro.html
 			100x50.jpeg
@@ -2392,16 +2420,16 @@ mta.ro
 			Buget.pdf
 			2020.pdf
 			min.pdf
-		.mta.ro.evenimente.depunerea.html
-			organigrama.pdf
-			Buget.pdf
-			2020.pdf
-			min.pdf
-			organigrama.pdf
-			Buget.pdf
-			2020.pdf
-			min.pdf
 		.mta.ro.evenimente.editiei.html
+			organigrama.pdf
+			Buget.pdf
+			2020.pdf
+			min.pdf
+			organigrama.pdf
+			Buget.pdf
+			2020.pdf
+			min.pdf
+		.mta.ro.evenimente.slujbe.html
 			organigrama.pdf
 			Buget.pdf
 			2020.pdf
@@ -2454,6 +2482,7 @@ mta.ro
 			Buget.pdf
 			2020.pdf
 			min.pdf
+			admitere.pdf
 			2020.pdf
 			2020.pdf
 			profesionala.pdf
@@ -2881,6 +2910,14 @@ mta.ro
 			2020.pdf
 		.www.mta.ro.wp.html
 			www.pdf
+		jpic.mta.ro.html
+			CFP_JPIC_2020_EN_Vol.
+			IV,
+			No.
+			1.pdf
+		www.mta.ro.html
+			2020.pdf
+			2020.pdf
 	js/
 		.jpic.mta.ro.html
 			1.10.2.js
@@ -3439,7 +3476,7 @@ mta.ro
 			jquery.custom.js
 			1.0.0.min.js
 			embed.min.js
-		.mta.ro.evenimente.depunerea.html
+		.mta.ro.evenimente.editiei.html
 			release.min.js
 			jquery.js
 			rbtools.min.js
@@ -3471,7 +3508,7 @@ mta.ro
 			jquery.custom.js
 			1.0.0.min.js
 			embed.min.js
-		.mta.ro.evenimente.editiei.html
+		.mta.ro.evenimente.slujbe.html
 			release.min.js
 			jquery.js
 			rbtools.min.js
@@ -4697,6 +4734,12 @@ mta.ro
 			link.min.js
 			frontend.min.js
 			site.min.js
+		www.mta.ro.html
+			release.min.js
+			jquery.js
+			front.js
+			sharethis.js
+			analytics.js
 	html/
 		.jpic.mta.ro.html
 			index.html
@@ -4706,3 +4749,7 @@ mta.ro
 			index.html
 		.mta.ro.proiecte.html
 			index.html
+		jpic.mta.ro.html
+			index.html
+			volumes_en.html
+			index_fr.html
